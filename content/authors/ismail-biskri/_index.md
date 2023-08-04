@@ -1,27 +1,27 @@
 ---
 # Display name
-title: Dominic Forest
+title: Ismail Biskri
 
 # Full Name (for SEO)
-first_name: Dominic
-last_name: Forest
+first_name: Ismail
+last_name: Biskri
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD, Maîtrise en philosophie, Professeur, Université de Montréal, École de Bibliothéconomie et des Sciences de l’information
+role: PhD, professeur, Université du Québec à Trois-Rivières, Mathématiques et informatique
 
 # Organizations/Affiliations
 organizations:
-  - name: Université de Montréal
+  - name: Université du Québec à Trois-Rivières
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dominic Forest est professeur en sciences de l’information.
+bio: Ismail Biskri est professeur en mathématiques et informatique à l'Université du Québec à Trois-Rivières.
 
 interests:
-  - Fouille de texte
+  - Informatique
 
 #education:
 #  courses:
@@ -53,4 +53,4 @@ highlight_name: false
 user_groups:
   - Chercheurs en informatique
 ---
-Dominic Forest est professeur en sciences de l’information.
+Ismail Biskri est professeur en mathématiques et informatique.
