@@ -45,7 +45,7 @@
       {{/* Get link to user's profile page. */}}
       {{ $link := "" }}
       {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
-        {{ $link = .RelPermalink }}
+        {{/*  {{ $link = .RelPermalink }}  */}}
       {{ end }}
       <div class="col-12 col-sm-auto people-person">
         {{ $src := "" }}
