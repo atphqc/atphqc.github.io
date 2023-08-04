@@ -3,8 +3,9 @@ title: Approches numériques en histoire de la culture au Québec
 date: 2023-03-01
 authors: ['dominic-forest']
 ---
+Note : *ce texte représente un autre exemple de billet que l’on peut publier sur ce site. Nous pourrons retirer les icônes de réseaux sociaux sous le billet si nécessaire (ou ne retenir que ceux que nous souhaitons voir).*
 
-L'équipe du projet organise un colloque dans le cadre du 90<sup>e</sup> congrès de l'Acfas qui aura lieu du 8 au 12 mai 2023.
+L’équipe du projet organise un colloque dans le cadre du 90<sup>e</sup> congrès de l’Acfas qui aura lieu du 8 au 12 mai 2023.
 Le colloque, intitulé « [Approches numériques en histoire de la culture au Québec](https://www.acfas.ca/evenements/congres/programme/90/600/641/c) », prendra place le mardi 9 mai, en collaboration avec le colloque du CRIHN-GREN 2023.
 
 <!--more-->

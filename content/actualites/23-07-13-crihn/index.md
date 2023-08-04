@@ -5,6 +5,8 @@ authors: ['david-valentine','dominic-forest']
 ---
 
 Participation au colloque du CRIHN à l'automne 2023.
+Ce texte représente un exemple de billet que l'on peut publier sur ce site.
+ Nous pourrons retirer les icônes de réseaux sociaux sous le billet si nécessaire (ou ne retenir que ceux que nous souhaitons voir).
 
 <!--more-->
 
