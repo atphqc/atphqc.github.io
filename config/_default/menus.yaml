@@ -13,9 +13,9 @@ main:
   - name: Équipe de recherche
     url: equipe
     weight: 30
-#  - name: Events
-#    url: event
-#    weight: 40
+  - name: Évènements
+    url: event
+    weight: 40
   - name: Publications
     url: publications
     weight: 50
