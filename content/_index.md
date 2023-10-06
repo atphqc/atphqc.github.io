@@ -21,7 +21,7 @@ sections:
       title: Actualités
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
@@ -33,7 +33,26 @@ sections:
       page_type: actualites
     design:
       view: card
-      columns: '1'
+      columns: '2'
+
+  - block: collection
+    content:
+      title: Activités
+      subtitle:
+      text:
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: event
+    design:
+      view: card
+      columns: '2'
   
   - block: markdown
     content:
