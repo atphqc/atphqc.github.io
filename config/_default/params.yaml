@@ -46,9 +46,9 @@ header:
 footer:
   block: minimal
   copyright:
-    notice: '© {year} LANCI. {license}'
+    notice: '© {year} [LANCI](https://www.lanci.uqam.ca) et groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: true
       share_alike: true
       allow_commercial: false
