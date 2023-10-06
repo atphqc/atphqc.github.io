@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2023-10-06
 
 type: landing
 
@@ -9,9 +9,9 @@ sections:
     content:
       title: Contact
       text: |-
-        Vous pouvez utiliser ce formualire pour joindre l'équipe du projet.
-      email: david.valentine@umontreal.ca
-#      phone: 888 888 88 88
+        Pour contacter l’équipe du groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur, vous pouvez nous écrire à l'adresse suivante :
+      email: meunier.jean-guy@uqam.ca ou simard.jean-claude@videotron.ca
+      # phone: 888 888 88 88
       address:
         street: 455, Boulevard René-Lévesque Est
         city: Montréal
@@ -20,50 +20,12 @@ sections:
         country: Canada
         country_code: CA
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-#      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-#      office_hours:
-#        - 'Monday 10:00 to 13:00'
-#        - 'Wednesday 09:00 to 10:00'
-#      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
+        latitude: '45.513615535653535'
+        longitude: '-73.55885917762372'
+   
       # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      autolink: false
+ 
     design:
-      columns: '1'
-
-#  - block: markdown
-#    content:
-#      title:
-#      subtitle: ''
-#      text:
-#    design:
-#      columns: '1'
-#      background:
-#        image: 
-#          filename: contact.jpg
-#          filters:
-#            brightness: 1
-#          parallax: false
-#          position: center
-#          size: cover
-#          text_color_light: true
-#      spacing:
-#        padding: ['20px', '0', '20px', '0']
-#      css_class: fullscreen
+      columns: '2'
 ---
