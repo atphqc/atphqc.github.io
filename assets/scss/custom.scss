@@ -4,7 +4,15 @@
 	line-height: 1.2;
 }
 .hero-lead {
-	font-size: 0.95rem;
+	font-size: 0.9rem;
+}
+.cta-btns {
+	margin-top: 16px;
+}
+a.hero-cta-alt:active,
+a.hero-cta-alt:focus,
+a.hero-cta-alt:hover {
+	transform: none;
 }
 
 // général
@@ -16,7 +24,6 @@ h1 {
 }
 
 // footer
-
 footer {
 	margin: 4rem 0 1rem;
 }
