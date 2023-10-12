@@ -82,7 +82,9 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./equipe/" cta_text="Équipe de recherche →" %}}
+        <img src="./sshrc-fip-full-color-fra.png"
+          alt="Logotype du Conseil de recherche en sciences humaines du Canada."
+          title="Conseil de recherche en sciences humaines du Canada" />
     design:
       columns: '1'
 ---
