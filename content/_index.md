@@ -18,15 +18,15 @@ sections:
         icon: newspaper
       cta_alt:
         label: Présentation
-        url: presentation
-      cta_note:
-        label: >-
-          <div style="text-shadow: none;">
-          <a href="#activites">Voir les activités</a>
-          </div>
+        url: ./presentation
+#      cta_note:
+#        label: >-
+#          <div style="text-shadow: none;">
+#          <a href="#activites">Voir les activités</a>
+#          </div>
       text: |
         <p>
-        Le groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur est le véhicule d’un projet interdisciplinaire visant à explorer un large corpus historique issu de la philosophie québécoise à l’aide d’outils informatiques inspirés de l’intelligence artificielle​.
+        Le groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur est porteur d’un projet interdisciplinaire visant à explorer un large corpus historique issu de la philosophie québécoise à l’aide d’outils informatiques inspirés de l’intelligence artificielle​.
         Le projet est financé par le <abbr title="Conseil de recherche en sciences humaines du Canada">CRSH</abbr> dans le cadre des <a href="https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_grants-subventions_savoir-fra.aspx">subventions Savoir</a>.
         </p>
 
