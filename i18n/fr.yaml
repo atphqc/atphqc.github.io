@@ -58,7 +58,7 @@
 # Buttons
 
 - id: btn_preprint
-  translation: Pré-impression
+  translation: Prépublication
 
 - id: btn_pdf
   translation: PDF
@@ -137,7 +137,7 @@
   translation: Nom
 
 - id: contact_email
-  translation: E-mail
+  translation: Courriel
 
 - id: contact_message
   translation: Message
@@ -160,7 +160,7 @@
   translation: Publication
 
 - id: publication_type
-  translation: Type
+  translation: Type de publication
 
 - id: date
   translation: Date
@@ -184,7 +184,7 @@
   translation: Article de revue
 
 - id: pub_preprint
-  translation: Pré-impression
+  translation: Prépublication
 
 - id: pub_report
   translation: Rapport
@@ -200,6 +200,9 @@
 
 - id: pub_patent
   translation: Brevet
+
+- id: pub_presentation
+  translation: Communication orale
 
 # Project details
 
@@ -249,7 +252,7 @@
   translation: Page non disponible
 
 - id: 404_recommendations
-  translation: Vous cherchiez peut-être une des pages suivantes ?
+  translation: Cherchiez vous une des pages suivantes?
 
 # Cookie consent
 

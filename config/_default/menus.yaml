@@ -11,7 +11,7 @@ main:
     url: equipe
     weight: 30
   - name: Publications et communications
-    url: publications
+    url: publication
     weight: 50
   - name: Contact
     url: contact
