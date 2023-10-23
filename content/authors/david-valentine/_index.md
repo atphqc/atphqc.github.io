@@ -10,23 +10,24 @@ last_name: Valentine
 superuser: true
 
 # Role/position
-role: Auxiliaire de recherche
+role: Doctorant, sciences de l’information
 
 # Organizations/Affiliations
 organizations:
   - name: Université de Montréal
-    url: ''
+    url: 'https://davidvalentine.ca'
 
 # Short bio (displayed in user profile at end of posts)
-bio: David Valentine est doctorant en sciences de l'information.
+bio: David Valentine est doctorant en sciences de l’information à l’école de bibliothéconomie et des sciences de l’information de l’Université de Montréal.
 
 interests:
   - Web sémantique
   - Données liées
+  - Cartographie historique
 
 education:
   courses:
-    - course: Doctorat en science de l'information
+    - course: Doctorat en science de l’information
       institution: Universtité de Montréal
       year: 2022-2026
     - course: DESS en édition numérique
@@ -56,20 +57,9 @@ social:
   - icon: mastodon
     icon_pack: fab
     link: https://mas.to/@davvalent
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/davvalent
   - icon: github
     icon_pack: fab
     link: https://github.com/davvalent
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'david.valentine@umontreal.ca'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -77,8 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Chercheurs et chercheuses juniors
+  - Étudiantes chercheuses et étudiants chercheurs
 ---
-
-David Valentine est doctorant en sciences de l'information à l'Université de Montréal.
-Titualire d'une maitrise en littérature comparée et d'un DESS en édition numérique, il prépare une thèse doctorale qui porte sur la représentation des connaissances produites à partir de documents d'archives cartographiques de Montréal.
+David Valentine est doctorant en sciences de l’information à l’école de bibliothéconomie et des sciences de l’information de l’Université de Montréal.
+Titualire d’une maitrise en littérature comparée et d’un DESS en édition numérique, il prépare une thèse doctorale qui porte sur la représentation des connaissances produites à partir de documents d’archives cartographiques de Montréal.

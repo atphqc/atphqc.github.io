@@ -10,40 +10,26 @@ last_name: Forest
 superuser: false
 
 # Role/position
-role: PhD, Maîtrise en philosophie, Professeur, Université de Montréal, École de Bibliothéconomie et des Sciences de l’information
+role: PhD, professeur titulaire, École de bibliothéconomie et des sciences de l’information
 
 # Organizations/Affiliations
 organizations:
   - name: Université de Montréal
-    url: ''
+    url: 'https://ebsi.umontreal.ca/repertoire-ecole/professeurs/professeur/in/in15274/sg/Dominic%20Forest/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dominic Forest est professeur en sciences de l’information.
+bio: Dominic Forest est professeur titulaire à l’école de bibliothéconomie et des sciences de l’information de l’Université de Montréal.
 
 interests:
   - Fouille de texte
 
-#education:
-#  courses:
-#    - 
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+    link: 'mailto:dominic.forest@umontreal.ca'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/dominicforest/'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -53,4 +39,4 @@ highlight_name: false
 user_groups:
   - Chercheurs en informatique
 ---
-Dominic Forest est professeur en sciences de l’information.
+Dominic Forest est professeur titulaire à l’école de bibliothéconomie et des sciences de l’information de l’Université de Montréal.

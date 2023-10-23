@@ -1,49 +1,51 @@
 ---
 # Display name
-title: Ismail Biskri
+title: Ismaïl Biskri
 
 # Full Name (for SEO)
-first_name: Ismail
+first_name: Ismaïl
 last_name: Biskri
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD, professeur, Université du Québec à Trois-Rivières, Mathématiques et informatique
+role: PhD, professeur titulaire, Mathématiques et informatique
 
 # Organizations/Affiliations
 organizations:
   - name: Université du Québec à Trois-Rivières
-    url: ''
+    url: 'http://www.uqtr.ca/ismail.biskri'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ismail Biskri est professeur en mathématiques et informatique à l'Université du Québec à Trois-Rivières.
 
 interests:
-  - Informatique
+  - Intelligence artificielle 
+  - Informatique et linguistique 
+  - Traitement des langues naturelles 
+  - Génie linguistique 
+  - Logique combinatoire 
+  - Lambda calcul 
+  - Grammaires catégorielles 
+  - Recherche d'information 
+  - Classification automatique 
+  - Data-Mining 
+  - Text-Mining 
+  - Dig Data
+  - Multilinguisme 
+  - Base de données
 
-#education:
-#  courses:
-#    - 
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+    link: 'mailto:ismail.biskri@uqtr.ca'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?user=KM-__ftviCIC'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/isma%C3%AFl-biskri-2385b530/'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -53,4 +55,4 @@ highlight_name: false
 user_groups:
   - Chercheurs en informatique
 ---
-Ismail Biskri est professeur en mathématiques et informatique.
+Ismail Biskri est professeur en mathématiques et informatique à l'Université du Québec à Trois-Rivières.
