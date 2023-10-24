@@ -18,7 +18,7 @@ organizations:
   url: "https://crosemont.qc.ca/enseignant/ludovic-chevalier/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ludovic Chevalier est professeur de philosophie au Collège Rosemeont.
+bio: Ludovic Chevalier est professeur de philosophie au Collège Rosemont.
 
 # List each interest with a dash
 interests:
@@ -37,4 +37,4 @@ highlight_name: false
 user_groups:
 - Chercheurs en philosophie et en histoire des idées au Québec
 ---
-Ludovic Chevalier est professeur de philosophie au Collège Rosemeont.
+Ludovic Chevalier est professeur de philosophie au Collège Rosemont.
