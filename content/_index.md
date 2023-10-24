@@ -26,7 +26,7 @@ sections:
 #          </div>
       text: |
         <p>
-        Le groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur est porteur d’un projet interdisciplinaire visant à explorer un large corpus historique issu de la philosophie québécoise à l’aide d’outils informatiques inspirés de l’intelligence artificielle​.
+        Le groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur (<abbr title="Analyse de textes philosophiques québécois assistée par ordinateur">ATPHQC</abbr>) est porteur d’un projet interdisciplinaire visant à explorer un large corpus historique issu de la philosophie québécoise à l’aide d’outils informatiques inspirés de l’intelligence artificielle​.
         Le projet est financé par le <abbr title="Conseil de recherche en sciences humaines du Canada">CRSH</abbr> dans le cadre des <a href="https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_grants-subventions_savoir-fra.aspx">subventions Savoir</a>.
         </p>
 
@@ -61,10 +61,12 @@ sections:
     id: activites
     content:
       title: Activités
-      subtitle:
+      subtitle: Activités organisées par le groupe de recherche
       text:
       count: 3
       filters:
+        folders:
+          - event
         author: ''
         category: ''
         exclude_featured: false
@@ -72,9 +74,12 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: event
+      page_type: 
+      archive:
+        enable: true
+        text: Voir toutes les activités
     design:
-      view: card
+      view: 2
       columns: '2'
   
   - block: markdown
@@ -86,5 +91,5 @@ sections:
           alt="Logotype du Conseil de recherche en sciences humaines du Canada."
           title="Conseil de recherche en sciences humaines du Canada" />
     design:
-      columns: '1'
+      columns: '2'
 ---

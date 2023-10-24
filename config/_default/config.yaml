@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Textes philosophiques québécois # Website name
+title: ATPHQC # Website name
 baseURL: 'https://ntnlv.ca/philo/' # Website URL
 
 ############################
@@ -44,8 +44,9 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-######## original
-#  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+# original
+# home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+# modified
   home: [HTML, RSS, JSON, WebAppManifest]
   section: [HTML, RSS]
 imaging:

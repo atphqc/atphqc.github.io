@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'Analyse de textes philosophiques québécois assistée par ordinateur.'
+    description: "Site web du groupe de recherche sur l'analyse de textes philosophiques québécois assistée par ordinateur."
     twitter: ''
   analytics:
     google_analytics: ''
@@ -37,16 +37,16 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: false
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   block: minimal
   copyright:
-    notice: '© {year} [LANCI](https://www.lanci.uqam.ca) et groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur.'
+    notice: '© {year} Groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur.'
     license:
       enable: false
       allow_derivatives: true
