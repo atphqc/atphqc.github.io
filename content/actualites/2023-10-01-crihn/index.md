@@ -1,12 +1,21 @@
 ---
-title: Colloque du CRIHN
-date: 2023-07-13
-authors: ['david-valentine','dominic-forest']
+title: Participation des membres du projet au colloque du CRIHN (automne 2023)
+subtitle: ""
+summary: ""
+date: 2023-10-01
+authors: ['david-valentine']
+type: post
+#lastmod: 2023-10-20T18:36:18-04:00
+tags: [communication scientifique, CRIHN]
+categories: [Annonces]
+draft: false
 ---
-
 Participation au colloque du CRIHN à l'automne 2023.
+Équipe EBSI et aussi JGM LAREAU
+<!--more-->
+Lien vers le programme.
 Ce texte représente un exemple de billet que l'on peut publier sur ce site.
- Nous pourrons retirer les icônes de réseaux sociaux sous le billet si nécessaire (ou ne retenir que ceux que nous souhaitons voir).
+Nous pourrons retirer les icônes de réseaux sociaux sous le billet si nécessaire (ou ne retenir que ceux que nous souhaitons voir).
 
 <!--more-->
 

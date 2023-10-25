@@ -1,14 +1,21 @@
 ---
 title: Approches numériques en histoire de la culture au Québec
+subtitle: ""
+summary: ""
 date: 2023-03-01
-authors: ['dominic-forest']
+type: post
+authors: ['david-valentine']
+#lastmod: 2023-10-20T18:36:18-04:00
+tags: [communication scientifique, CRIHN, GREN, Acfas]
+categories: [Annonces]
+draft: false
 ---
-Note : *ce texte représente un autre exemple de billet que l’on peut publier sur ce site. Nous pourrons retirer les icônes de réseaux sociaux sous le billet si nécessaire (ou ne retenir que ceux que nous souhaitons voir).*
-
-L’équipe du projet organise un colloque dans le cadre du 90<sup>e</sup> congrès de l’Acfas qui aura lieu du 8 au 12 mai 2023.
-Le colloque, intitulé « [Approches numériques en histoire de la culture au Québec](https://www.acfas.ca/evenements/congres/programme/90/600/641/c) », prendra place le mardi 9 mai, en collaboration avec le colloque du CRIHN-GREN 2023.
+Des membres du projet organisent un colloque dans le cadre du 90<sup>e</sup> congrès de l’Acfas qui aura lieu du 8 au 12 mai 2023.
 
 <!--more-->
+
+Le colloque, intitulé « [Approches numériques en histoire de la culture au Québec](https://www.acfas.ca/evenements/congres/programme/90/600/641/c) », prendra place le mardi 9 mai, en collaboration avec le colloque du CRIHN-GREN 2023.
+date du colloque
 
 ## Argumentaire
 
@@ -21,3 +28,5 @@ Plus spécifiquement, il veut faire connaître et partager des approches et des 
 Son foyer central sera davantage technique et méthodologique que disciplinaire.
 En fait, la seule exigence thématique imposée aux communications sera liée au sujet général : l’histoire et la culture québécoises.
 Nous accueillerons donc, entre autres, des communications en philosophie, en histoire, en anthropologie, en littérature, en sociologie, en économie, en études cinématographiques, en langues et linguistique, en communication, en bibliothéconomie et sciences de l’information, en histoire de l’art.
+
+Le programme peut être consulté :

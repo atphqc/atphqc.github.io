@@ -1,17 +1,12 @@
 ---
 title: Atelier sur la philosophie québécoise et la recherche assistée par ordinateur
-
 event: Atelier sur la philosophie québécoise et la recherche assistée par ordinateur
 event_url: 
-
 location: Université du Québec à Montréal (UQÀM), Département de philosophie, salle W5125
 address:
   street: 455, Boulevard René-Lévesque Est
   city: Montréal
-#  region: QC
-#  postcode: '94305'
   country: Canada
-
 summary:
 abstract: 'L’atelier sur la philosophie québécoise et la recherche assistée par ordinateur est organisé par Ludovic Chevalier (Collège Rosemont), Jean-Guy Meunier (chercheur associé, UQÀM) et Jean-Claude Simard (chercheur associé, UQÀM), en collaboration avec le Département de philosophie de l’UQÀM. Cette activité vise **1)**&nbsp;à montrer l’intérêt des méthodes de fouille de texte numérique, tant pour les enseignant.e.s que pour les étudiant.e.s du Département de philosophie, et **2)**&nbsp;à faire la promotion de la philosophie québécoise. Tous les membres du groupe sont cordialement invités à y assister.'
 
@@ -25,9 +20,8 @@ all_day: false
 publishDate: '2023-10-23T00:00:00Z'
 
 authors: ["jean-claude-simard"]
-tags: ["activités"]
+categories: ["Activités"]
 
-# Is this a featured talk? (true/false)
 featured: false
 
 image:

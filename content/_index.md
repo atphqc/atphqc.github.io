@@ -48,7 +48,7 @@ sections:
       offset: 0
       sort_by: 'Date'
       order: desc
-      page_type: actualites
+      page_type: post
       archive:
         enable: true
         text: Voir toutes les actualités
