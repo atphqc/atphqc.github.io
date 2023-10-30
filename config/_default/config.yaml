@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: ATPHQC # Website name
-baseURL: 'https://ntnlv.ca/philo/' # Website URL
+baseURL: 'https://ntnlv.ca/philo-99e7d754df/' # Website URL
 
 ############################
 ## LANGUAGE
