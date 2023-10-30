@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         Pour contacter l’équipe du groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur, vous pouvez nous écrire à l'adresse suivante :
-      email: meunier.jean-guy@uqam.ca ou simard.jean-claude@videotron.ca
+      email: "meunier.jean-guy@uqam.ca"
       # phone: 888 888 88 88
       address:
         street: 455, Boulevard René-Lévesque Est

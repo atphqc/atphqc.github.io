@@ -19,11 +19,12 @@ sections:
       cta_alt:
         label: Présentation
         url: ./presentation
-#      cta_note:
-#        label: >-
-#          <div style="text-shadow: none;">
-#          <a href="#activites">Voir les activités</a>
-#          </div>
+      cta_note:
+        label: >-
+          <div id="activites-bouton">
+          
+          <a href="#activites">{{< icon name="calendar-plus" pack="fas" >}} Voir les activités</a>
+          </div>
       text: |
         <p>
         Le groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur (<abbr title="Analyse de textes philosophiques québécois assistée par ordinateur">ATPHQC</abbr>) est porteur d’un projet interdisciplinaire visant à explorer un large corpus historique issu de la philosophie québécoise à l’aide d’outils informatiques inspirés de l’intelligence artificielle​.

@@ -1,26 +1,32 @@
 ---
-title: Participation des membres du projet au colloque du CRIHN (automne 2023)
+title: Participation des membres du groupe de recherche au colloque du CRIHN (automne 2023)
 subtitle: ""
 summary: ""
 date: 2023-10-01
-authors: ['david-valentine']
+authors: [david-valentine,]
 type: post
 #lastmod: 2023-10-20T18:36:18-04:00
 tags: [communication scientifique, CRIHN]
 categories: [Annonces]
 draft: false
 ---
-Participation au colloque du CRIHN à l'automne 2023.
-Équipe EBSI et aussi JGM LAREAU
-<!--more-->
-Lien vers le programme.
-Ce texte représente un exemple de billet que l'on peut publier sur ce site.
-Nous pourrons retirer les icônes de réseaux sociaux sous le billet si nécessaire (ou ne retenir que ceux que nous souhaitons voir).
-
+Plusieurs membres du groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur participeront au colloque du Centre de recherche interuniversitaire sur les humanités numériques (<abbr title="Centre de recherche interuniversitaire sur les humanités numériques">CRIHN</abbr>) qui aura lieu du 11 au 13 octobre à l’Université de Montréal.
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Le directeur du groupe, Jean-Guy Meunier, profitera de l’occasion pour y présenter le projet de recherche.
+Dominic Forest et son équipe (Camille Demers, Sara-Maude Bergeron et David Valentine) y présenteront une communication portant sur leurs travaux en lien avec le corpus de la revue *Laval théologique et philosophique*.
+Enfin, Francis Lareau y présentera une communication sur la détection de thèses principales à l’aide des outils de fouille de textes.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+## {{< icon name="calendar-check" pack="fas" >}} Détails de l’activité
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+Les détails concernant cette activité de recherche (lieu, horaire et modalités) peuvent être consultés sur le site web du CRIHN :
+
+- [**Colloque du CRIHN 2023**](https://www.crihn.org/nouvelles/2023/08/28/colloque-du-crihn-2023/)
+
+## {{< icon name="bullhorn" pack="fas" >}} Communications
+
+{{< cite page="/publication/meunier-projet-2023" view="1" >}}
+
+{{< cite page="/publication/demers-applications-2023" view="1" >}}
+
+{{< cite page="/publication/lareau-fouille-2023" view="1" >}}

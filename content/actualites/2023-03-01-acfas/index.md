@@ -8,10 +8,9 @@ authors: ['david-valentine']
 #lastmod: 2023-10-20T18:36:18-04:00
 tags: [communication scientifique, CRIHN, GREN, Acfas]
 categories: [Annonces]
-draft: false
+draft: true
 ---
-Des membres du projet organisent un colloque dans le cadre du 90<sup>e</sup> congrès de l’Acfas qui aura lieu du 8 au 12 mai 2023.
-
+Des membres du projet organisent un colloque dans le cadre du 90<sup>e</sup> congrès de l’Acfas qui aura lieu du 8 au 12 mai 2023 à HEC MTL.
 <!--more-->
 
 Le colloque, intitulé « [Approches numériques en histoire de la culture au Québec](https://www.acfas.ca/evenements/congres/programme/90/600/641/c) », prendra place le mardi 9 mai, en collaboration avec le colloque du CRIHN-GREN 2023.
