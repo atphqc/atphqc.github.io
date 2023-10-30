@@ -16,6 +16,9 @@ a.hero-cta-alt:hover {
 }
 
 // général
+html {
+  scroll-behavior: smooth;
+}
 body {
 	font-size: 0.9rem;
 }
@@ -26,4 +29,13 @@ h1 {
 // footer
 footer {
 	margin: 4rem 0 1rem;
+}
+
+// tableaux d'information
+.article-container > div.row div.col-md-10 {
+	border-bottom: 1px solid grey;
+}
+#activites-bouton {
+	padding-left: 0.5rem;
+	padding-bottom: 1.25rem;
 }

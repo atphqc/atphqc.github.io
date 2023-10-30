@@ -169,7 +169,7 @@
   translation: Dernière mise à jour le
 
 - id: event
-  translation: Évènement
+  translation: Activité
 
 - id: location
   translation: Lieu
@@ -198,7 +198,7 @@
 - id: pub_thesis
   translation: Thèse
 
-- id: pub_patent
+- id: pub_affiche
   translation: Communication par affiche
 
 - id: pub_presentation

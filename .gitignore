@@ -5,4 +5,5 @@ assets/jsconfig.json
 /.editorconfig
 /go.sum
 /go.mod
-/publications.bib
+/*.bib
+/assets/media/logo.xcf

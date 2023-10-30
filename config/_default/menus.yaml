@@ -4,6 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+#  - name: Accueil
+#    url: /
+#    weight: 10
+#  - name: Actualités
+#    parent: Accueil
+#    url: /#actualites
+#    weight: 10
+#  - name: Activités
+#    parent: Accueil
+#    url: /#activites
+#    weight: 20
   - name: Présentation
     url: presentation
     weight: 20
