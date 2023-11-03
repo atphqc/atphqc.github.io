@@ -6,6 +6,10 @@ title: "Camille Demers"
 authors:
 - "camille-demers"
 
+# Full Name (for SEO)
+first_name: Camille
+last_name: Demers
+
 # Is this the primary user of the site?
 superuser: false
 

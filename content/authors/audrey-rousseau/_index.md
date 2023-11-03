@@ -6,6 +6,10 @@ title: "Audrey Rousseau"
 authors:
 - "audrey-rousseau"
 
+# Full Name (for SEO)
+first_name: Audrey
+last_name: Rousseau
+
 # Is this the primary user of the site?
 superuser: false
 

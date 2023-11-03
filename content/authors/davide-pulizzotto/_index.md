@@ -6,6 +6,10 @@ title: "Davide Pulizzotto"
 authors:
 - "davide-pulizzotto"
 
+# Full Name (for SEO)
+first_name: Davide
+last_name: Pulizzotto
+
 # Is this the primary user of the site?
 superuser: false
 

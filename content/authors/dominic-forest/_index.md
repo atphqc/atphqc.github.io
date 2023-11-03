@@ -6,6 +6,10 @@ title: Dominic Forest
 first_name: Dominic
 last_name: Forest
 
+# Full Name (for SEO)
+first_name: Dominic
+last_name: Forest
+
 # Is this the primary user of the site?
 superuser: false
 

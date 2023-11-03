@@ -1,6 +1,6 @@
 ---
-title: Équipe
-date: 2023-07-14
+title: Équipe de recherche
+date: 2023-10-30
 
 type: landing
 
@@ -11,12 +11,11 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Direction
-          - Chercheurs en informatique
-          - Chercheurs en philosophie et en histoire des idées au Québec
-          - Étudiantes chercheuses et étudiants chercheurs
-          - Collaborateurs et collaboratrices
-
+        - Direction
+        - Chercheurs en informatique
+        - Chercheurs en philosophie et en histoire des idées au Québec
+        - Étudiantes chercheuses et étudiants chercheurs
+        - Collaborateurs et collaboratrices
       sort_by: Params.last_name
       sort_ascending: true
     design:

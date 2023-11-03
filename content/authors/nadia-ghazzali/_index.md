@@ -2,6 +2,10 @@
 # Display name
 title: "Nadia Ghazzali"
 
+# Full Name (for SEO)
+first_name: Nadia
+last_name: Ghazzali
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "nadia-ghazzali"

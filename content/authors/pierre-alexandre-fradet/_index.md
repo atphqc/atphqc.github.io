@@ -1,41 +1,41 @@
 ---
 # Display name
-title: "Yvan Lamonde"
-
-# Full Name (for SEO)
-first_name: Yvan
-last_name: Lamonde
+title: "Pierre-Alexandre Fradet"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "yvan-lamonde"
+- "pierre-alexandre-fradet"
+
+# Full Name (for SEO)
+first_name: Pierre-Alexandre
+last_name: Fradet
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD, professeur émérite, Littérature et langue françaises
+role: PhD, professeur de philosophie
 
 # Organizations/Affiliations
 organizations:
-- name: Université McGill
-  url: "https://mcgill.ca/researchhonours/yvan-lamonde/"
+- name: Cégep de Saint-Laurent
+  url: "https://www.cegepsl.qc.ca/equipe/pierre-alexandre-fradet/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yvan Lamonde est professeur émérite en littérature et langue françaises à l’Université McGill.
+bio: Pierre-Alexandre Fradet est professeur de philosophie au Cégep de Saint-Laurent.
 
 # List each interest with a dash
 interests:
-- Philosophie au Québec
-- Histoire des idées
+- Philosophie
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yvan.lamonde@mcgill.ca'
+  link: 'mailto:pfradet@cegepsl.qc.ca'
+
 - icon: globe
   icon_pack: fas
-  link: https://yvanlamondesiteperso.wordpress.com
+  link: 'https://www.cegepsl.qc.ca/equipe/pierre-alexandre-fradet/'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -45,4 +45,4 @@ highlight_name: false
 user_groups:
 - Chercheurs en philosophie et en histoire des idées au Québec
 ---
-Yvan Lamonde est professeur émérite en littérature et langue françaises à l’Université McGill.
+Pierre-Alexandre Fradet est professeur de philosophie au Cégep de Saint-Laurent.

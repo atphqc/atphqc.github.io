@@ -6,6 +6,10 @@ title: "Ludovic Chevalier"
 authors:
 - "ludovic-chevalier"
 
+# Full Name (for SEO)
+first_name: Ludovic
+last_name: Chevalier
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -1,28 +1,28 @@
 ---
 # Display name
-title: "Alaidine Ben Ayed"
+title: "Julien Vallières"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "alaidine-ben-ayed"
+- "julien-vallieres"
 
 # Full Name (for SEO)
-first_name: Alaidine
-last_name: Ben Ayed
+first_name: Julien
+last_name: Vallières
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Doctorant, informatique congnitive
+role: Maîtrise en langue et littérature françaises
 
 # Organizations/Affiliations
 organizations:
-- name: Université du Québec à Montréal
+- name: Université McGill
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Alaidine Ben Ayed est doctorant en informatique congnitive à l'Université du Québec à Montréal.
+bio: Julien Vallières est candidat à la maîtrise en langue et littérature françaises à l’Université McGill.
 
 # List each interest with a dash
 interests:
@@ -33,9 +33,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: globe
-  icon_pack: fas
-  link: 'https://www.researchgate.net/profile/Alaidine-Ben-Ayed'
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://www.linkedin.com/in/julienvallieres/'
 
 
 # Highlight the author in author lists? (true/false)
@@ -46,4 +46,4 @@ highlight_name: false
 user_groups:
 - Étudiantes chercheuses et étudiants chercheurs
 ---
-Alaidine Ben Ayed est doctorant en informatique congnitive à l'Université du Québec à Montréal.
+Julien Vallières est candidat à la maîtrise en langue et littérature françaises à l’Université McGill.
