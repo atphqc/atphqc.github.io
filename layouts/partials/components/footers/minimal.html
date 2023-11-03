@@ -25,6 +25,45 @@
   {{ . | markdownify | emojify }}
 </p>
 {{ end }}
+<style>
+  .footer-large {
+    font-size: 16px
+  }
 
+  .footer-large h5 {
+    font-size: 16px
+  }
+</style>
+{{- $currentPage := . }}
+<div class="container px-4 px-md-3 footer-large">
+  <div class="row">
+    <div class="col-lg-3 mb-3">
+      <a class="d-inline-flex align-items-center mb-2 link-dark text-decoration-none" href="{{ $.Site.Params.baseURL | relLangURL}}" aria-label="ATPHQC">
+        <span class="fs-5" style="font-weight: 700;">Analyse de textes philosophiques québécois assistée par ordinateur</span>
+      </a>
+Un groupe de recherche associé au <a href="https://www.lanci.uqam.ca" target="_blank" rel="noopener">Laboratoire d’ANalyse Cognitive de l’Information (LANCI)</a>.
+    </div>
+    <div class="col-6 col-lg-2 offset-lg-1 mb-3">
+      <h5>Menu</h5>
+      <ul class="list-unstyled">
+        {{- range site.Menus.main }}
+        {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
+        {{- $page_url:= $currentPage.Permalink | absLangURL }}    
+        <li class="mb-2"><a href="{{ .URL | relLangURL }}">{{- .Name -}}</a></li>
+        {{- end }}
+      </ul>
+    </div>
+    <div class="col-6 col-lg-2 mb-3">
+      <h5>Abonnements</h5>
+      <ul class="list-unstyled">
+        {{- range site.Menus.abonnements }}
+        {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
+        {{- $page_url:= $currentPage.Permalink | absLangURL }}    
+        <li class="mb-2"><a href="{{ .URL | relLangURL }}/index.xml"><i class="fas fa-rss-square mr-1"></i>{{- .Name -}}</a></li>
+        {{- end }}
+      </ul>
+    </div>
+  </div>
+</div>
 {{/* Display copyright license. */}}
 {{ partial "site_footer_license" . }}

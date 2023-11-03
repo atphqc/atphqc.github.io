@@ -27,3 +27,11 @@ main:
   - name: Contact
     url: contact
     weight: 60
+
+abonnements:
+  - name: Actualités
+    url: actualites
+    weight: 10
+  - name: Activités
+    url: event
+    weight: 20
