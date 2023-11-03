@@ -5,7 +5,7 @@ date: 2023-10-03
 profile: false
 type: post
 ---
-En mai 2021, le programme Savoir du Conseil de recherches en sciences humaines du Canada (<abbr title="Conseil de recherches en sciences humaines du Canada">CRSH</abbr>) accordait au Laboratoire d’analyse cognitive de l’information (<abbr title="Laboratoire d’analyse cognitive de l’information">LANCI</abbr>) de l’Université du Québec à Montréal (<abbr title="Université du Québec à Montréal">UQAM</abbr>) une importante subvention de recherche.
+En mai 2021, le programme Savoir du Conseil de recherches en sciences humaines du Canada (<abbr title="Conseil de recherches en sciences humaines du Canada">CRSH</abbr>) accordait au [Laboratoire d’analyse cognitive de l’information](https://www.lanci.uqam.ca) (<abbr title="Laboratoire d’analyse cognitive de l’information">LANCI</abbr>) de l’Université du Québec à Montréal (<abbr title="Université du Québec à Montréal">UQAM</abbr>) une importante subvention de recherche.
 L’objectif principal de ce projet interdisciplinaire est d’analyser un corpus historique de textes philosophiques québécois à l’aide d’outils informatiques utilisant des acquis récents de l’intelligence artificielle (IA).
 
 L’IA et les humanités numériques sont appelées à transformer en profondeur les champs de la recherche et de l’enseignement. Auparavant, on ne pouvait mener de grands travaux en histoire de la philosophie québécoise, car on ne disposait d’aucune collection conséquente de textes.

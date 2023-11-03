@@ -8,17 +8,18 @@ sections:
   - block: contact
     content:
       title: Contact
+      subtitle: Pour contacter l’équipe
       text: |-
         Pour contacter l’équipe du groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur, vous pouvez nous écrire à l'adresse suivante :
       email: "meunier.jean-guy@uqam.ca"
       # phone: 888 888 88 88
       address:
         street: 455, Boulevard René-Lévesque Est
-        city: Montréal
-        region: QC
-        postcode: 'H2L 4Y2'
-        country: Canada
-        country_code: CA
+        city: Montréal (Québec) H2L 4Y2
+#        region: 'sd'
+#        postcode: 'sd'
+#        country: 'sd'
+#        country_code: CA
       coordinates:
         latitude: '45.513615535653535'
         longitude: '-73.55885917762372'
