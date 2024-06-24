@@ -12,19 +12,21 @@ sections:
       image:
         filename: welcome.jpg
       cta:
-        label: Actualités
-        url: ./#actualites
+        label: Blogue de recherche
+        url: ./#blogue
         icon_pack: fas
         icon: newspaper
       cta_alt:
-        label: Présentation
-        url: ./presentation
-      cta_note:
-        label: >-
-          <div id="activites-bouton">
-          
-          <a href="#activites">{{< icon name="calendar-plus" pack="fas" >}} Voir les activités</a>
-          </div>
+        label: Voir les activités
+        url: ./#activites
+        icon_pack: fas
+        icon: calendar-plus
+#      cta_note:
+#        label: >-
+#          <div id="activites-bouton">
+#          
+#          <a href="#activites">{{< icon name="calendar-plus" pack="fas" >}} Voir les activités</a>
+#          </div>
       text: |
         <p>
         Le groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur (<abbr title="Analyse de textes philosophiques québécois assistée par ordinateur">ATPHQC</abbr>) est porteur d’un projet interdisciplinaire visant à explorer un large corpus historique issu de la philosophie québécoise à l’aide d’outils informatiques inspirés de l’intelligence artificielle​.
@@ -32,15 +34,15 @@ sections:
         </p>
 
   - block: collection
-    id: actualites
+    id: blogue
     content:
-      title: Actualités
-      subtitle: Dernières nouvelles du projet
+      title: Blogue de recherche
+      subtitle: Échos des travaux effectués par le groupe et dernières nouvelles du projet
       text:
       count: 3
       filters:
         folders:
-          - actualites
+          - blogue
         author: ''
         category: ''
         exclude_featured: false
@@ -52,8 +54,8 @@ sections:
       page_type: post
       archive:
         enable: true
-        text: Voir toutes les actualités
-    link: post/
+        text: Voir tous les billets
+    link: blogue/
     design:
       view: card
       columns: '2'

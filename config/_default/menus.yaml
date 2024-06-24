@@ -15,10 +15,21 @@ main:
 #    parent: Accueil
 #    url: /#activites
 #    weight: 20
+  - name: Blogue de recherche
+    url: blogue
+    weight: 10
+  - name: Annonces
+    parent: Blogue de recherche
+    url: category/annonces/
+    weight: 10
+  - name: Échos des travaux
+    parent: Blogue de recherche
+    url: category/echos-des-travaux/
+    weight: 10
   - name: Présentation
     url: presentation
     weight: 20
-  - name: Équipe de recherche
+  - name: Équipe
     url: equipe
     weight: 30
   - name: Publications et communications
@@ -29,9 +40,9 @@ main:
     weight: 60
 
 abonnements:
-  - name: Actualités
-    url: actualites
+  - name: Blogue de recherche
+    url: blogue
     weight: 10
   - name: Activités
-    url: event
+    url: activites
     weight: 20
