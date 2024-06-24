@@ -53,6 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+  - Direction
   - Chercheurs en informatique
 ---
 Ismail Biskri est professeur en mathématiques et informatique à l'Université du Québec à Trois-Rivières.

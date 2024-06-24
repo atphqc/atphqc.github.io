@@ -1,6 +1,6 @@
 ---
 title: Publications et communications
-date: 2023-10-18
+date: 2024-05-20
 view: citation
 url: /publications/
 ---

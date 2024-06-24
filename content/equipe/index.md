@@ -14,6 +14,7 @@ sections:
         - Direction
         - Chercheurs en informatique
         - Chercheurs en philosophie et en histoire des idées au Québec
+        - Mobilisation pédagogique des connaissances
         - Étudiantes chercheuses et étudiants chercheurs
         - Collaborateurs et collaboratrices
       sort_by: Params.last_name

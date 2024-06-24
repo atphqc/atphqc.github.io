@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jean-Guy Meunier
+title: Jean-Guy Meunier († mars 2024)
 
 # Full Name (for SEO)
 first_name: Jean-Guy
@@ -10,7 +10,7 @@ last_name: Meunier
 superuser: false
 
 # Role/position
-role: PhD, professeur associé, Philosophie
+role: Direction initiale, PhD, professeur associé, Philosophie
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: 'https://professeurs.uqam.ca/professeur/meunier.jean-guy/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jean-Guy Meunier est professeur associé au département de philosophie de l’Université du Québec à Montréal
+bio: Jean-Guy Meunier était professeur associé au département de philosophie de l’Université du Québec à Montréal
 
 interests: 
   - Analyse de texte par ordinateur
@@ -48,4 +48,4 @@ highlight_name: false
 user_groups:
   - Direction
 ---
-Jean-Guy Meunier est professeur associé au département de philosophie de l’Université du Québec à Montréal.
+Jean-Guy Meunier était professeur associé au département de philosophie de l’Université du Québec à Montréal.

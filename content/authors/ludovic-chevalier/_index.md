@@ -39,6 +39,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Chercheurs en philosophie et en histoire des idées au Québec
+- Mobilisation pédagogique des connaissances
 ---
 Ludovic Chevalier est professeur de philosophie au Collège Rosemont.
