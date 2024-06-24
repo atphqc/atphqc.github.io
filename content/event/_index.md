@@ -1,5 +1,6 @@
 ---
 title: Activités
+url: /activites/
 
 #   View
 #   1 = List

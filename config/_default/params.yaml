@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: "Site web du groupe de recherche sur l'analyse de textes philosophiques québécois assistée par ordinateur."
+    org_name: 'Analyse de textes philosophiques québécois assistée par ordinateur'
+    description: "Site web du groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur."
     twitter: ''
   analytics:
     google_analytics: ''

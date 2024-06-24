@@ -22,7 +22,7 @@ main:
     url: equipe
     weight: 30
   - name: Publications et communications
-    url: publication
+    url: publications
     weight: 50
   - name: Contact
     url: contact
