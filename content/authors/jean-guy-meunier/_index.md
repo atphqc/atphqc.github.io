@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jean-Guy Meunier († mars 2024)
+title: Jean-Guy Meunier
 
 # Full Name (for SEO)
 first_name: Jean-Guy
@@ -10,7 +10,7 @@ last_name: Meunier
 superuser: false
 
 # Role/position
-role: Direction initiale, PhD, professeur associé, Philosophie
+role: Direction initiale **(† mars 2024)**, PhD, professeur associé, Philosophie
 
 # Organizations/Affiliations
 organizations:
