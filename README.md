@@ -6,6 +6,8 @@ Ce dépôt contient les sources du site web du projet d’analyse de textes phil
 
 # Notes techniques
 
+Documentation du framework (Wowchemy) : https://bootstrap.hugoblox.com
+
 ## Serve
 
 Pour développement local :
