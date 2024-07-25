@@ -1,9 +1,11 @@
 # Hugo
-/resources/
+resources/
 public/
 assets/jsconfig.json
 /.editorconfig
-/go.sum
-/go.mod
 /*.bib
 /assets/media/logo.xcf
+
+# autres
+
+NOTES.md
