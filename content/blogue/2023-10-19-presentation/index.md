@@ -33,7 +33,7 @@ En plus de soutenir la [présentation du projet](../../presentation/) dans ces a
 
 ### {{< icon name="newspaper" pack="fas" >}} Billets
 
-Les billets sont accessibles depuis la [page d’accueil](../../) en cliquant sur le bouton **Actualités** (repérez l’icône {{< icon name="newspaper" pack="fas" >}}).
+Les billets sont accessibles depuis la [page d’accueil](../../) en cliquant sur le bouton **Blogue de recherche** (repérez l’icône {{< icon name="newspaper" pack="fas" >}}).
 
 Ils peuvent servir à la diffusion d’annonces et d’actualités en lien avec le projet (comme le billet que vous êtes en train de lire), ou à la rédaction de textes scientifiques ou de vulgarisation (blogue de recherche).
 
@@ -41,11 +41,11 @@ Un système de classification permet d’organiser les contenus diffusés par ca
 
 ### {{< icon name="calendar-plus" pack="fas" >}} Activités
 
-Comme pour les billets, les activités organisées par le groupe de recherche sont également accessibles depuis la [page d’accueil](../../), juste [en dessous](../../#activites) de la section Actualités.
+Comme pour les billets, les activités organisées par le groupe de recherche sont également accessibles depuis la [page d’accueil](../../), juste [en dessous](../../#activites) de la section Blogue de recherche.
 
 La présentation des activités permet d’afficher la description, les informations pratiques (lieu et moment) et le programme détaillé de l’événement.
 
-[L’atelier sur la philosophie québécoise et la recherche assistée par ordinateur](../../event/2023-11-03-atelier/) permet de consulter un exemple d’activité affichée sur ce site web.
+[L’atelier sur la philosophie québécoise et la recherche assistée par ordinateur](../../activites/2023-11-03-atelier) permet de consulter un exemple d’activité affichée sur ce site web.
 
 ### {{< icon name="list-ul" pack="fas" >}} Références
 

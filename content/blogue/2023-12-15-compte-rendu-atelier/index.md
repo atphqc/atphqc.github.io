@@ -10,11 +10,12 @@ tags: []
 categories: ["Échos des travaux"]
 draft: false
 ---
-Dans ce texte, Shirin Tokhtakhunova, étudiante au collégial, propose un compte rendu de la première partie de l’atelier sur la philosophie québécoise et la recherche assistée par ordinateur qui a eu lieu à l’automne 2023. Ce billet inaugure la nouvelle catégorie *Échos des travaux* qui vise à rassembler les contributions qui font état aux travaux effectués par le groupe de recherche sur l’analyse de textes philosophiques québécois assistée par ordinateur.
+Dans ce texte, Shirin Tokhtakhunova, étudiante au collégial, propose un compte rendu de la première partie de l’atelier sur la philosophie québécoise et la recherche assistée par ordinateur qui a eu lieu à l’automne 2023.
+Ce billet inaugure la nouvelle catégorie *Échos des travaux* qui vise à rassembler les contributions qui font état des travaux effectués par le groupe de recherche.
 
 <!--more-->
 
-## Compte rendu de la conférence sur la philosophie québécoise, par Shirin Tokhtakhunova
+---
 
 Le 3 novembre 2023, dans l’après-midi, s’est déroulée une conférence à l’UQAM pendant la semaine thématique. Celle-ci a eu lieu en présentiel à l’université, mais a également été diffusée en ligne, permettant à un certain public de participer à distance. L’événement, organisé par Ludovic Chevalier du Collège Rosemont, en collaboration avec Jean-Guy Meunier et Jean-Claude Simard de l’UQAM, abordait le sujet de la philosophie québécoise. Cette rencontre intellectuelle a réuni Claude Panaccio, discutant de la philosophie dans les années soixante-dix et Pierre-Alexandre Fradet, explorant les thèmes du réalisme et de la métaphysique au Québec.
 
